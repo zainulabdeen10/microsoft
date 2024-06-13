@@ -18,6 +18,11 @@ module.exports = {
       spacing: {
         '4.5rem': '4.5rem',  // Custom spacing value for 4.5rem
       },
+      screens:{
+        '2xl':'1536px',
+        '4xl':'2560px',
+
+      },
     },
   },
   plugins: [],
